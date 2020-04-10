@@ -1,0 +1,10 @@
+replicaCount: 2
+
+serviceMonitor:
+  enabled: false
+
+resources:
+  requests:
+    cpu: 100m
+
+configFilePrefix: minikube

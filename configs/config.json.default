@@ -1,0 +1,7 @@
+{
+  "Logging": {
+    "Enable": true,
+    "Level": "DEBUG"
+  },
+  "GracefulTermTimeMillis": 500
+}
